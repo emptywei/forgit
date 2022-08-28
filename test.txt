@@ -1,3 +1,0 @@
-testfile
-write in gihub
-wirte by git_demo2 localhost
